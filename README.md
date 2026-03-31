@@ -67,4 +67,4 @@ quicksample/
 
 ## License
 
-MIT License
+GPL v2
