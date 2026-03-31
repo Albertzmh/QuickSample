@@ -52,7 +52,7 @@ quicksample/
 ├── dialog.py         # Main UI dialog
 ├── sampler.py        # Core sampling logic
 ├── exporter.py       # CSV and GeoPackage export
-├── icon.png          # Toolbar icon (add your own)
+├── icon.png          # Toolbar icon
 └── README.md
 ```
 
